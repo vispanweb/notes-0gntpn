@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vispanweb.github.io/notes-0gntpn/sitemap.xml
